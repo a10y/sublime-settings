@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/ayu/ayu.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "ayu.sublime-theme",
+	"typescript_plugin_tsc_version": "1.7.3",
+	"vintage_start_in_command_mode": false
+}
